@@ -1,2 +1,0 @@
-ctrl+f --> search(1.year of experience,2.citizenship,3.clearance)
-if sponsorship ask then answer is no
